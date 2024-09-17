@@ -16,4 +16,28 @@
     $number1 += $number2; // $number1 = number1 + $number2
     echo $number1;
 
+    $firstNumber = 600;
+    $secondNumber = 400;
+    $add = $firstNumber + $secondNumber;
+    echo "<h3>$add</h3>";
+    $substract = $firstNumber - $secondNumber;
+    echo "<h3>$substract</h3>";
+    $mul = $firstNumber * $secondNumber;
+    echo "<h3>$mul</h3>";
+    $div = $firstNumber / $secondNumber;
+    echo "<h3>$div</h3>";
+    $mod = $firstNumber % $secondNumber;
+    echo "<h3>$mod</h3>";
+
+
+
+
+
+
+
+
+
+
+
+
 ?>

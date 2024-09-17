@@ -1,0 +1,11 @@
+Mathematic Operator
+=> +, -, *, /, %
+
+Assignment Operator
+=> =, +=, -=, *=, /=, %=
+
+Comparism Operator
+=> > , < , >= , <= , == , === , != , !==
+
+Logical Operator
+=> && , || , !
